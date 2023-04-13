@@ -2,3 +2,7 @@ name: PointSystem
 version: '${project.version}'
 main: com.foxdev.pointsystem.PointSystem
 api-version: 1.18
+commands:
+  xpadd:
+    description: XP ADD!
+    permission: jqst.admin
